@@ -93,7 +93,7 @@ Installation
 
 NOTE: Installation will take some Minutes! Be Patience =)
 
-The installation process is pretty easy and straight forward, like for any other third-party Home Assistang Add-on.
+The installation process is pretty easy and straight forward, like for any other third-party Home Assistant Add-on.
 
 Add the repository URL under **Supervisor → Add-on store → ⋮ → Manage add-on repositories**:
 
@@ -110,7 +110,8 @@ In that case:
 - edit mac
 - restart diyHue
 
-## Configuration
+Configuration
+~~~~~~~~~~~~~
 
 **Note**: Remember to restart the add-on when the configuration is changed.
 
