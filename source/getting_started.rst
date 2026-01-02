@@ -117,13 +117,13 @@ Configuration
 
 Example add-on configuration:
 
-```yaml
-config_path: /config/diyhue
-mac: "XX:XX:XX:XX:XX:XX"
-debug: true
-no-serve-https: false
-deconz_ip: 192.168.0.0
-```
+.. code-block:: yaml
+
+    config_path: /config/diyhue
+    mac: "XX:XX:XX:XX:XX:XX"
+    debug: true
+    no-serve-https: false
+    deconz_ip: 192.168.0.0
 
 **Note**: This is just an example, don't copy and paste it! Create your own!
 
